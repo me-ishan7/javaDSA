@@ -8,7 +8,7 @@ public class sortArray {
         System.out.println("The array 2 is sorted ? --> "+isSorted(arr2 , 0));
     }
     static boolean isSorted(int[] arr , int idx){
-        if(idx == arr.length - 1) return arr[idx-1] < arr[idx];
+        if(idx == arr.length - 1) return true;
         return arr[idx] < arr[idx+1] && isSorted(arr , idx + 1);
     }
 }
