@@ -15,19 +15,33 @@ This repository is aimed at practicing, learning, and mastering core computer sc
 
 ## 📂 Project Structure
 Java_DSA/
+
 │── .idea/
+
 │── out/
+
 │── src/
+
 │   ├── _OOPS
+
 │   ├── Arrays
+
 │   ├── BasicsOfJAVA
+
 │   ├── bitManipulation
+
 │   ├── Collections
+
 │   ├── Recursion
+
 │   ├── Searching
+
 │   ├── Sorting
+
 │   ├── Strings
+
 │   ├── Main
+
 │   └── random
 │── .gitignore
 │── Java_detailed.iml
